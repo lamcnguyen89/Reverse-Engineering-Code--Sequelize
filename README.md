@@ -9,7 +9,7 @@ We are given starter code for this project. We will then inspect the code to get
 * Installation of Web Browser to view webpage
 * Visual Studio Code to analze the code for the website
 * Node.js
-* MySQL
+* MySQL: Create a database in order to run this application.
 * Express JS
 * Sequelize
 * Passport
@@ -21,6 +21,7 @@ We are given starter code for this project. We will then inspect the code to get
 * Node.js
 * MySQL
 * DBeaver
+* Google Docs
 
 ## Author
 
